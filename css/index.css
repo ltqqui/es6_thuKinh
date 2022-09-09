@@ -25,7 +25,8 @@ body{
 }
 
 .vglasses__model{
-    background-image: url('../img/301347727_799342207874712_362031445972907287_n.jpg');
+    /* background-image: url('../img/model.jpg'); */
+    background-image: url('../img/305584236_874425757275584_24546480812134482_n.jpg');
     background-position: center top;
     background-size: cover;
     height: 600px;
@@ -86,9 +87,10 @@ body{
 #glassesList .row .col .item{
     width: 100%;
 }
-
 .vglasses__model .item img {
     display: none;
-    margin-top: 50px;
-    margin-left: 22px;
+    /* margin-right: 20px; */
+    margin-left: -20px;
+    margin-bottom: -10;
+    margin-top: 10px;
 }
